@@ -1,0 +1,8 @@
+title: Mks264.GitHub.io
+description: file transfers
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
